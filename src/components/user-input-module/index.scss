@@ -1,0 +1,11 @@
+.main-input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    margin: 10rem 5rem 0;
+    .input-text-area{
+        padding: 2%;
+        border-radius: 8px;
+    }
+}
